@@ -13,7 +13,7 @@ My current research interests lie at the intersection of foundation models and d
 * **Agentic Reinforcement Learning (RL)**
 * **Multimodal Search Agents**
 * **Large Language Model (LLM) Post-training**
-* **Unified Multimodal Models**
+
 
 ## Publications
 
